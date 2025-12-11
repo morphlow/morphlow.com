@@ -31,8 +31,8 @@ morphlow.com/
 ## Getting Started
 
 ### Prerequisites
-- Node.js 18.x or higher
-- npm or yarn package manager
+- Node.js 20.10.0 LTS or higher
+- npm 10.0.0 or higher
 
 ### Installation
 
